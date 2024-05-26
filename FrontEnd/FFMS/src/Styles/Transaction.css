@@ -1,0 +1,38 @@
+.bar {
+  position: fixed;
+  top: auto;
+  left: 0;
+  transform: translateY(20%);
+}
+
+.butt {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.boxe {
+  position: fixed;
+  height: auto;
+  width: 50%;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.details {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: auto;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.refresh {
+  position: fixed;
+  top: 15%;
+  left:.5%;
+}

@@ -1,0 +1,29 @@
+.home-container {
+  position: relative;
+  float: left;
+  background-image: url("../Resources/img.jpg");
+  background-size: cover;
+  background-position: center;
+  height: auto;
+  left: 0;
+  top: 0;
+}
+
+.new{
+  display: flex;
+  justify-content: center;
+}
+/* Home.css */
+
+.picture {
+  display: flex;
+  justify-content: center;
+}
+
+.picture img {
+  float:left;
+  max-width: 50%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
